@@ -3,7 +3,6 @@
 ## Overview
 This guide provides step-by-step instructions to build, package, and deploy the Emraay Bank Java web application. We'll start with a **student-friendly manual deployment approach** to help you understand the fundamentals, then progress to **professional artifact repository deployment** using Nexus.
 
-
 ### 🎓 Learning Path
 1. **Build** your Java application with Maven
 2. **Manual Deployment** - Copy WAR file directly to Tomcat (understand the basics)
