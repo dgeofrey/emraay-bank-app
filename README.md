@@ -1,4 +1,3 @@
-
 # Emraay Bank Application - Build, Deploy & Deployment Guide
 
 ## Overview
