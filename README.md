@@ -9,6 +9,7 @@ This guide provides step-by-step instructions to build, package, and deploy the 
 3. **Artifact Repository** - Learn about Nexus and professional deployment practices
 4. **Automation** - Create scripts and CI/CD pipelines
 
+
 This progressive approach helps you understand both the "how" and the "why" behind modern deployment practices!
 
 ## Prerequisites
